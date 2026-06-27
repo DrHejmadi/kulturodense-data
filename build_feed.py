@@ -110,16 +110,19 @@ def wikidata_info(qids):
     return out
 
 def wikipedia_extract(lang, title):
-    """Hent et kort uddrag fra Wikipedia (rigtigere beskrivelse end Wikidata)."""
+    """Hent uddrag + artikelbillede fra Wikipedia (relevant og pænt).
+    Returnerer (extract, image_url)."""
     try:
         t = urllib.parse.quote(title.replace(" ", "_"))
         url = f"https://{lang}.wikipedia.org/api/rest_v1/page/summary/{t}"
         req = urllib.request.Request(url, headers={"User-Agent": "KulturOdense/1.0"})
         with urllib.request.urlopen(req, timeout=30) as r:
             d = json.load(r)
-        return (d.get("extract") or "").strip() or None
+        ext = (d.get("extract") or "").strip() or None
+        img = (d.get("originalimage") or d.get("thumbnail") or {}).get("source")
+        return ext, img
     except Exception:
-        return None
+        return None, None
 
 def main():
     print("Henter fra Overpass…", file=sys.stderr)
@@ -166,14 +169,16 @@ def main():
             if q and q in info:
                 if info[q]["image"]:
                     a["imageURL"] = info[q]["image"]
-                # Foretræk et rigtigt Wikipedia-uddrag som beskrivelse
+                # Foretræk et rigtigt Wikipedia-uddrag + artikelbillede
                 wp = info[q].get("wp")
                 if wp:
-                    ext = wikipedia_extract(wp[0], wp[1])
+                    ext, wpimg = wikipedia_extract(wp[0], wp[1])
                     if ext:
                         a["description"] = ext
                         if not a["summary"]:
                             a["summary"] = ext[:140]
+                    if wpimg and not a["imageURL"]:
+                        a["imageURL"] = wpimg
                 if not a["description"] and info[q]["desc"]:
                     a["description"] = info[q]["desc"]
 

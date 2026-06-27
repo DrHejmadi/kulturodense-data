@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T17:28:31.318841+00:00",
+  "generatedAt": "2026-06-27T21:04:49.247869+00:00",
   "source": "OpenStreetMap (ODbL) + Wikidata",
   "attractions": [
     {
@@ -1760,8 +1760,8 @@
       "category": "historisk",
       "latitude": 55.354475,
       "longitude": 10.441273,
-      "summary": "",
-      "description": "herregård syd for Odense",
+      "summary": "Hollufgård, er en gammel hovedgård lidt syd for Odensebydelen Neder Holluf og 1 km nordvest for Motorvejskryds Odense. Den nævnes første gan",
+      "description": "Hollufgård, er en gammel hovedgård lidt syd for Odensebydelen Neder Holluf og 1 km nordvest for Motorvejskryds Odense. Den nævnes første gang i 1487. Hovedbygningen er opført i 1577 og ombygget i 1829, og parken er på 8 hektar. Det er en herregård i typisk renæssancestil. Størstedelen af herregårdens bygninger har været fredet siden 1918. Flere af ejerne af Hollufgård var tillige ejer af Ørritslevgård.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Hollufgaard.jpg",
       "wikidata": "Q12317104",
       "website": null
@@ -1904,8 +1904,8 @@
       "category": "kirke",
       "latitude": 55.391428,
       "longitude": 10.378201,
-      "summary": "",
-      "description": "kirke i Odense",
+      "summary": "Ansgars Kirke er en kirke i Ansgars Sogn, Odense Stift, beliggende på Søndre Boulevard 1, Odense, tegnet af Niels Jacobsen og opført i 1902.",
+      "description": "Ansgars Kirke er en kirke i Ansgars Sogn, Odense Stift, beliggende på Søndre Boulevard 1, Odense, tegnet af Niels Jacobsen og opført i 1902.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Ansgars_Kirke_%28Odense_kommune%29.jpg",
       "wikidata": "Q12301928",
       "website": null
@@ -1964,8 +1964,8 @@
       "category": "kirke",
       "latitude": 55.363655,
       "longitude": 10.375362,
-      "summary": "",
-      "description": "kirke på Fyn",
+      "summary": "Dalum Kirke er en kirke i Dalum Sogn i Odense Kommune. Kirken errejst i ådalen nær Odense Ås vestbred. Den var formentlig fra starten tænkt ",
+      "description": "Dalum Kirke er en kirke i Dalum Sogn i Odense Kommune. Kirken errejst i ådalen nær Odense Ås vestbred. Den var formentlig fra starten tænkt som nordre fløj af et firlænget benediktinernonnekloster, der skulle afløse det ældre anlæg på Nonnebakken. Overflytningen til Dalum var med sikkerhed gennemført 1249, men formentlig allerede i århundredets begyndelse. Således kendes en privilegieskrivelse fra januar 1193, hvori klostret fik sine ordensregler og hellige kar fra benediktinermunkene i Skt. Knuds Kloster, hvorfra også prioren kom. Klostret var viet til Vor Frue.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Odense-Dalum_Kirke.jpg",
       "wikidata": "Q12307073",
       "website": null
@@ -2060,8 +2060,8 @@
       "category": "kirke",
       "latitude": 55.398523,
       "longitude": 10.363384,
-      "summary": "",
-      "description": "kirke i Odense",
+      "summary": "Hans Tausens Kirke er en kirke på Rugårdsvej i Odense.",
+      "description": "Hans Tausens Kirke er en kirke på Rugårdsvej i Odense.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Tausens_Kirke%2C_Odense_2006.jpg",
       "wikidata": "Q12315565",
       "website": null
@@ -2180,8 +2180,8 @@
       "category": "kirke",
       "latitude": 55.396379,
       "longitude": 10.39103,
-      "summary": "",
-      "description": "bygning i Odense",
+      "summary": "Sankt Albani Kirke er en katolsk kirke i Odense. 21. oktober 1906 var der grundstensnedlæggelse og 25. oktober 1908 blev kirken indviet af b",
+      "description": "Sankt Albani Kirke er en katolsk kirke i Odense. 21. oktober 1906 var der grundstensnedlæggelse og 25. oktober 1908 blev kirken indviet af biskop Johannes von Euch. Den er opført i gotisk stil med en portal i romansk stil. Tårnet er 54 meter højt.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Odense_-_Sankt_Albani_Kirke_%28Saint_Alban%27s_Church%29_in_2024.jpg",
       "wikidata": "Q4992243",
       "website": null
@@ -2192,8 +2192,8 @@
       "category": "kirke",
       "latitude": 55.395408,
       "longitude": 10.388969,
-      "summary": "",
-      "description": "domkirke i Odense",
+      "summary": "Sankt Knuds Kirke i Odense er opkaldt efter Knud den Hellige, som blev myrdet i 1086 i Sankt Albani Kirke, der lå tæt på den nuværende kirke",
+      "description": "Sankt Knuds Kirke i Odense er opkaldt efter Knud den Hellige, som blev myrdet i 1086 i Sankt Albani Kirke, der lå tæt på den nuværende kirke.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Knud%27s_cathedral_Odense_Denmark.jpg",
       "wikidata": "Q492584",
       "website": null
@@ -2300,8 +2300,8 @@
       "category": "kirke",
       "latitude": 55.39771,
       "longitude": 10.395459,
-      "summary": "",
-      "description": "kirke i Odense",
+      "summary": "Vor Frue Kirke er en kirke i Vor Frue Sogn i Odense Kommune.",
+      "description": "Vor Frue Kirke er en kirke i Vor Frue Sogn i Odense Kommune.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Vor_Frue_Kirke_%28Odense_kommune%29.jpg",
       "wikidata": "Q10716860",
       "website": null
@@ -2650,7 +2650,7 @@
       "longitude": 10.383311,
       "summary": "Munke Mose er en park i det centrale Odense.",
       "description": "Munke Mose er en park i det centrale Odense.",
-      "imageURL": null,
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Odense-Munke_Mose-new_bridge.jpg/3840px-Odense-Munke_Mose-new_bridge.jpg",
       "wikidata": "Q12327895",
       "website": null
     },
