@@ -1,40 +1,38 @@
-# Ansøgning til GuideDanmark (klar til afsendelse)
+# Ansøgning til GuideDanmark (forbedret — efter review fra ChatGPT, Gemini, Claude)
 
-**Til:** guidedanmark@visitdenmark.com (kopi: support@visitdenmark.com)
-**Emne:** Ansøgning om adgang til GuideDanmark Web Service — kulturapp for Odense
+**Til:** guidedanmark@visitdenmark.com (cc: support@visitdenmark.com)
+**Emne:** Ansøgning om adgang til GuideDanmark Web Service — kulturappen "Kultur Odense"
 
 ---
 
 Kære VisitDenmark / GuideDanmark-team
 
-Jeg vil gerne ansøge om adgang til GuideDanmark Web Service (api.guidedanmark.org) til brug i en mobilapp.
+Jeg ansøger om adgang til GuideDanmark Web Service for at kunne vise jeres kvalitetssikrede, officielle event- og attraktionsdata for Odense i den gratis app "Kultur Odense", som allerede er udgivet på App Store.
 
-**Om projektet**
-"Kultur Odense" er en gratis iPhone-app, der samler kultur- og oplevelseslivet i Odense ét sted — begivenheder, attraktioner, museer og erhvervstilbud (fx koncerter, teater, udstillinger, familiearrangementer og events som vinsmagninger). Appen er allerede udgivet på App Store (App ID 6784834304) og henter i dag permanente seværdigheder automatisk fra OpenStreetMap. Vi ønsker at supplere med jeres officielle og kvalitetssikrede data for tidsbestemte events og attraktioner.
+**OM AFSENDER**
+Michael Skov Hejmadi — privatperson. Uafhængigt, ikke-kommercielt projekt.
+E-mail: hejmadi@gmail.com · App: Kultur Odense (bundle id com.hejmadi.kulturodense)
+App Store: https://apps.apple.com/app/id6784834304 (aktiveres ved Apples godkendelse). Screenshots sendes gerne på anmodning.
 
-Det er hensigten, at produktet på sigt overdrages til Odense Kommune / Odense Erhvervsforening som et offentligt, ikke-kommercielt tilbud til borgere og turister.
+**OM APPEN OG FORMÅLET**
+Kultur Odense samler kultur- og oplevelseslivet i Odense ét sted — begivenheder, attraktioner, museer og erhvervstilbud. I dag hentes permanente seværdigheder fra OpenStreetMap; jeg ønsker at supplere med jeres autoritative data frem for scraping. Formålet er at øge synligheden af lokale tilbud for borgere og besøgende — gratis og ikke-kommercielt. Appen udvikles med ambition om på sigt at kunne overdrages til Odense Kommune eller en lokal erhvervs-/turismeaktør; evt. overdragelse sker efter aftale med jer.
 
-**Hvad vi ønsker at hente**
-- Geografi: Odense Kommune (og evt. Fyn)
-- Produkttyper: Events (kategori 58), Attraktioner (kategori 3) og spisesteder/erhverv (kategori 62)
-- Sprog: dansk (evt. engelsk)
+**VÆRDI FOR JER OG AKTØRERNE**
+Jeres aktører i Odense får en ekstra kanal og øget synlighed. Appen linker direkte ud til aktørernes egne booking-/hjemmesider → trafik og konverteringer, ikke kun visninger.
 
-**Teknisk brug**
-- Ét dagligt batch-kald (efter kl. 04:00 CET), via en automatiseret pipeline (GitHub Actions). Vi bruger delta-hentning (modifiedSince / Product/deleted) for at minimere belastning.
-- Vi viser fotograf- og copyright-kreditering på billeder og angiver GuideDanmark som datakilde i appen, i henhold til jeres vilkår.
+**ØNSKET DATA**
+Odense Kommune (evt. Fyn); events, attraktioner, spisesteder/erhverv (kat. 58/3/62 efter min forståelse — ret gerne); dansk (evt. engelsk).
 
-**Praktisk**
-Jeg er indforstået med engangsgebyret for adgang og beder jer venligst sende:
-1. Ansøgnings-/aftaleformular
-2. Bekræftelse af pris og licensvilkår (herunder den præcise krediteringstekst)
-3. Tekniske credentials (username/password) ved godkendelse
+**TEKNISK BRUG**
+Ét dagligt batch-kald efter kl. 04:00 CET, delta-hentning (tilføjer nye/ændrede + fjerner udløbne/slettede). Data caches på egen side — slutbrugere genererer aldrig trafik mod jeres servere. Data vises kun i appen, videredistribueres/sælges ikke. Ingen personoplysninger i flowet.
 
-Kontakt:
-- Navn: Michael Skov Hejmadi
-- E-mail: hejmadi@gmail.com
-- App: Kultur Odense (App Store), bundle id com.hejmadi.kulturodense
+**VILKÅR**
+Efterlever jeres licens-/brugsvilkår, cache-regler og kreditering (GuideDanmark/VisitDenmark som kilde + fotograf/copyright pr. billede med linkback). Bekræft gerne præcis krediteringstekst.
 
-Tak på forhånd — jeg ser frem til at høre fra jer.
+**PRAKTISK**
+Indforstået med engangsgebyret. Beder om: (1) aftaleformular, (2) bekræftelse af pris/vilkår, (3) credentials ved godkendelse.
+
+Jeg håber, I vil støtte projektet med adgang.
 
 Venlig hilsen
-Michael Skov Hejmadi
+Michael Skov Hejmadi · hejmadi@gmail.com
