@@ -23,10 +23,14 @@ def categorize(tags):
         return "snublesten"
     if tags.get("tourism") == "museum":
         return "museum"
-    if tags.get("tourism") == "artwork":
+    if tags.get("tourism") in ("artwork", "gallery"):
         return "kunst"
-    if tags.get("tourism") == "gallery":
-        return "kunst"
+    if tags.get("leisure") == "playground":
+        return "leg"
+    if tags.get("leisure") in ("park", "garden") or tags.get("tourism") == "viewpoint":
+        return "natur"
+    if tags.get("amenity") == "place_of_worship" or tags.get("building") == "church":
+        return "kirke"
     h = tags.get("historic")
     if h in ("memorial", "monument", "memorial_plaque"):
         return "monument"
@@ -38,7 +42,7 @@ def overpass_query():
     s, w, n, e = BBOX
     box = f"{s},{w},{n},{e}"
     return f"""
-[out:json][timeout:90];
+[out:json][timeout:120];
 (
   node["memorial"="stolperstein"]({box});
   node["memorial:type"="stolperstein"]({box});
@@ -47,8 +51,15 @@ def overpass_query():
   node["tourism"="museum"]({box});
   way["tourism"="museum"]({box});
   node["tourism"="gallery"]({box});
+  node["tourism"="viewpoint"]({box});
   node["historic"]({box});
   way["historic"]({box});
+  node["amenity"="place_of_worship"]({box});
+  way["amenity"="place_of_worship"]({box});
+  way["leisure"="park"]({box});
+  way["leisure"="garden"]({box});
+  node["leisure"="playground"]({box});
+  way["leisure"="playground"]({box});
 );
 out center tags;
 """
@@ -67,7 +78,7 @@ def wikidata_info(qids):
         chunk = qids[i:i+40]
         params = {
             "action": "wbgetentities", "ids": "|".join(chunk),
-            "props": "claims|descriptions", "languages": "da|en", "format": "json",
+            "props": "claims|descriptions|sitelinks", "languages": "da|en", "format": "json",
         }
         url = WIKIDATA + "?" + urllib.parse.urlencode(params)
         req = urllib.request.Request(url, headers={"User-Agent": "KulturOdense/1.0"})
@@ -88,9 +99,27 @@ def wikidata_info(qids):
                     pass
             desc = ent.get("descriptions", {})
             text = (desc.get("da") or desc.get("en") or {}).get("value")
-            out[qid] = {"image": img, "desc": text}
+            sl = ent.get("sitelinks", {})
+            wp = None
+            if "dawiki" in sl:
+                wp = ("da", sl["dawiki"]["title"])
+            elif "enwiki" in sl:
+                wp = ("en", sl["enwiki"]["title"])
+            out[qid] = {"image": img, "desc": text, "wp": wp}
         time.sleep(0.3)
     return out
+
+def wikipedia_extract(lang, title):
+    """Hent et kort uddrag fra Wikipedia (rigtigere beskrivelse end Wikidata)."""
+    try:
+        t = urllib.parse.quote(title.replace(" ", "_"))
+        url = f"https://{lang}.wikipedia.org/api/rest_v1/page/summary/{t}"
+        req = urllib.request.Request(url, headers={"User-Agent": "KulturOdense/1.0"})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            d = json.load(r)
+        return (d.get("extract") or "").strip() or None
+    except Exception:
+        return None
 
 def main():
     print("Henter fra Overpass…", file=sys.stderr)
@@ -137,11 +166,20 @@ def main():
             if q and q in info:
                 if info[q]["image"]:
                     a["imageURL"] = info[q]["image"]
-                if info[q]["desc"] and not a["description"]:
+                # Foretræk et rigtigt Wikipedia-uddrag som beskrivelse
+                wp = info[q].get("wp")
+                if wp:
+                    ext = wikipedia_extract(wp[0], wp[1])
+                    if ext:
+                        a["description"] = ext
+                        if not a["summary"]:
+                            a["summary"] = ext[:140]
+                if not a["description"] and info[q]["desc"]:
                     a["description"] = info[q]["desc"]
 
-    # sortér: snublesten og museer øverst, derefter alfabetisk
-    order = {"museum": 0, "snublesten": 1, "kunst": 2, "monument": 3, "historisk": 4}
+    # sortér: museer/snublesten øverst, derefter alfabetisk
+    order = {"museum": 0, "snublesten": 1, "kunst": 2, "monument": 3,
+             "historisk": 4, "kirke": 5, "natur": 6, "leg": 7}
     attractions.sort(key=lambda a: (order.get(a["category"], 9), a["title"]))
 
     # Events fra GuideDanmark (kun hvis credentials er sat; ellers tom liste)
