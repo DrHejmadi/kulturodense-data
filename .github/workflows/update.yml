@@ -14,6 +14,10 @@ jobs:
         with:
           python-version: "3.12"
       - name: Byg feed.json
+        env:
+          GUIDEDANMARK_USER: ${{ secrets.GUIDEDANMARK_USER }}
+          GUIDEDANMARK_PASS: ${{ secrets.GUIDEDANMARK_PASS }}
+          GUIDEDANMARK_ODENSE_MUNICIPALITY_ID: ${{ secrets.GUIDEDANMARK_ODENSE_MUNICIPALITY_ID }}
         run: python build_feed.py feed.json
       - name: Commit ved ændring
         run: |

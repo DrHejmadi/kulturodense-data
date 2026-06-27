@@ -144,11 +144,19 @@ def main():
     order = {"museum": 0, "snublesten": 1, "kunst": 2, "monument": 3, "historisk": 4}
     attractions.sort(key=lambda a: (order.get(a["category"], 9), a["title"]))
 
+    # Events fra GuideDanmark (kun hvis credentials er sat; ellers tom liste)
+    events = []
+    try:
+        import guidedanmark
+        events = guidedanmark.fetch_events()
+    except Exception as ex:
+        print("GuideDanmark-ingestion sprang fejl over:", ex, file=sys.stderr)
+
     feed = {
         "generatedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-        "source": "OpenStreetMap (ODbL) + Wikidata",
+        "source": "OpenStreetMap (ODbL) + Wikidata" + (" + GuideDanmark" if events else ""),
         "attractions": attractions,
-        "events": [],   # udfyldes senere fra GuideDanmark/Kultunaut
+        "events": events,
     }
     out_path = sys.argv[1] if len(sys.argv) > 1 else "feed.json"
     with open(out_path, "w", encoding="utf-8") as f:
