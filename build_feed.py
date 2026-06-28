@@ -158,6 +158,9 @@ def main():
             "imageURL": None,
             "wikidata": qid,
             "website": tags.get("website") or tags.get("contact:website"),
+            "openingHours": tags.get("opening_hours"),
+            "wheelchair": {"designated": "yes"}.get(
+                tags.get("wheelchair"), tags.get("wheelchair")),
         })
 
     print(f"  {len(attractions)} relevante seværdigheder, {len(qids)} med Wikidata", file=sys.stderr)

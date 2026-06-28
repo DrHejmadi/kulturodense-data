@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T21:04:49.247869+00:00",
+  "generatedAt": "2026-06-28T08:27:52.071654+00:00",
   "source": "OpenStreetMap (ODbL) + Wikidata",
   "attractions": [
     {
@@ -12,7 +12,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-37135323",
@@ -24,7 +26,9 @@
       "description": "Danmarks Jernbanemuseum er en fire-stjernet turistattraktion beliggende i Dannebrogsgade i Odense, lige ved siden af Odense Banegård. Museet udstiller en omfattende samling af togvogne, lokomotiver, modeller af tog og færger og andre effekter. De udstillede genstande giver et indtryk af Danmarks jernbanehistorie, især for Statsbanerne. Museet er organiseret som en erhvervsdrivende fond, der ledes af en bestyrelse. Fonden modtager tilskud fra DSB og Banedanmark.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Danmarks_Jernbanemuseum_2024_02.jpg",
       "wikidata": "Q1138285",
-      "website": "https://www.jernbanemuseet.dk/"
+      "website": "https://www.jernbanemuseet.dk/",
+      "openingHours": "We 09:00-21:00; Sa, Su 09:00-16:00; Mo, Tu, Th, Fr 10:00-16:00",
+      "wheelchair": "yes"
     },
     {
       "id": "osm-way-35736240",
@@ -36,7 +40,9 @@
       "description": "Den Fynske Landsby er et frilandsmuseum i Odense, som indeholder gårde og huse, som de så ud på Fyn i 1800-tallet. Landsbyen ligger i forbindelse med lystskoven Fruens Bøge og indeholder i alt 25 bygninger og bygningskomplekser fra det fynske område. Bygningerne stammer fra cirka år 1500 til op på den anden side af år 1900. Fordelingen af bygninger er fem gårde – herunder præstegård og vandmølle – samt fem husmandsteder, en kro, en skole, et sprøjtehus, en barklade og en vindmølle. Bebyggelsessituationen fem gårde og fem husmandssteder svarer til det som var almindeligt omkring år 1800. Landsbyen rummer også et teglværk fra 1893.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Denmark-odense-fynske_landsby-house.jpg",
       "wikidata": "Q727113",
-      "website": "https://denfynskelandsby.dk/"
+      "website": "https://denfynskelandsby.dk/",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-1367289919",
@@ -48,7 +54,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-1091069718",
@@ -60,7 +68,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-161173752",
@@ -68,11 +78,13 @@
       "category": "museum",
       "latitude": 55.394531,
       "longitude": 10.387268,
-      "summary": "",
-      "description": "museum i Munkemøllestræde, Odense",
+      "summary": "H.C. Andersens Barndomshjem er et mindre museum, der ligger i Munkemøllestræde 3-5, oprindelig Klingenberg 646 i Odense, og udgør et samlet ",
+      "description": "H.C. Andersens Barndomshjem er et mindre museum, der ligger i Munkemøllestræde 3-5, oprindelig Klingenberg 646 i Odense, og udgør et samlet areal på ca. 42 m², som skomagerfamilien med den da toårige H.C. Andersen tilflyttede i maj måned 1807 og beboede frem til 1819.\nI H.C. Andersens barndom bestod huset af tre lejligheder. I den første boede H.C. Andersen med sine forældre og i de to øvrige lejligheder boede henholdsvis handskemagersvend Frantz Köcker med familie og i den anden ende af huset hattemagersvend Phillip Schenk og hans kone. Familierne Andersen og Köcker havde fælles forstue som indgang til de to lejligheder.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Denmark-odense-hans_christian_andersen-childhood_home.jpg",
       "wikidata": "Q1522203",
-      "website": null
+      "website": null,
+      "openingHours": "Tu-Su 11:00-16:00",
+      "wheelchair": null
     },
     {
       "id": "osm-way-912702695",
@@ -84,7 +96,9 @@
       "description": "museum i Odense, Danmark",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Hc-andersens-hus.jpg",
       "wikidata": "Q490485",
-      "website": "https://hcandersensodense.dk/h-c-andersen-museum/"
+      "website": "https://hcandersensodense.dk/h-c-andersen-museum/",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-912530995",
@@ -96,7 +110,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-13691310537",
@@ -108,7 +124,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": "24/7",
+      "wheelchair": null
     },
     {
       "id": "osm-node-3846401819",
@@ -120,7 +138,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-380931075",
@@ -132,7 +152,9 @@
       "description": "vindmølle på Fyn",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Lumby_m%C3%B8lle.jpg",
       "wikidata": "Q12325098",
-      "website": "https://www.lumbymolle.dk/"
+      "website": "https://www.lumbymolle.dk/",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-606468720",
@@ -144,7 +166,9 @@
       "description": "",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Odense_Bunkermuseum.jpg",
       "wikidata": "Q12329855",
-      "website": "https://www.odensebunkermuseum.dk/"
+      "website": "https://www.odensebunkermuseum.dk/",
+      "openingHours": "Jan-Nov Sa,Su 10:00-16:00; Dec PH,Mo-Su off",
+      "wheelchair": null
     },
     {
       "id": "osm-way-23209910",
@@ -156,7 +180,9 @@
       "description": "Jernalderlandsbyen Odins Odense er et mindre uafhængigt frilandsmuseum i udkanten af Odense med jernalderhuse, som de så ud for omkring 2000 år siden. I husene fortælles kort om jernalderens forhold og om de livsvilkår som datidens mennesker levede under. I Odins Odense bliver der formidlet om tiden fra den Førromersk jernalder frem til Vikingetiden 793 e.Kr. – 1050 e. Kr.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Denmark-reconstructed_iron_age_house.jpg",
       "wikidata": "Q12319547",
-      "website": "https://www.odinsodense.dk/"
+      "website": "https://www.odinsodense.dk/",
+      "openingHours": "Mo-Th 01:00-16:00; Sa-Su 01:00-16:00",
+      "wheelchair": "yes"
     },
     {
       "id": "osm-way-1367289908",
@@ -168,7 +194,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-1367289922",
@@ -180,7 +208,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": "https://museumodense.dk/tid-museum-for-odense/"
+      "website": "https://museumodense.dk/tid-museum-for-odense/",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-361706180",
@@ -192,7 +222,9 @@
       "description": "museum i Odense",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Denmark-Odense-Thriges_Kraftcentral.JPG",
       "wikidata": "Q15955232",
-      "website": "https://museum.odense.dk/thrigeskraftcentral"
+      "website": "https://museum.odense.dk/thrigeskraftcentral",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-3628507938",
@@ -204,7 +236,9 @@
       "description": "Tidens Samling i Odense er et kulturhistorisk hands-on museum for klæder, form og bolig i det 20. århundrede fra 1900 - 1990’erne. Her er det tilladt at røre de udstillede genstande, for du må sætte dig i møblerne, åbne skufferne, kigge i bøgerne og prøve tøjet.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Tidens_Samling_-_1920s.jpg",
       "wikidata": "Q12343168",
-      "website": "https://tidenssamling.dk/"
+      "website": "https://tidenssamling.dk/",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-8995512612",
@@ -216,7 +250,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-2189303421",
@@ -228,7 +264,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": "https://samlingen.koes.dk/vaerker-i-det-offentlige-rum/2702"
+      "website": "https://samlingen.koes.dk/vaerker-i-det-offentlige-rum/2702",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-2195535498",
@@ -240,7 +278,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": "https://samlingen.koes.dk/vaerker-i-det-offentlige-rum/3426"
+      "website": "https://samlingen.koes.dk/vaerker-i-det-offentlige-rum/3426",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-3834112362",
@@ -252,7 +292,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-13686704518",
@@ -264,7 +306,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7310178827",
@@ -276,7 +320,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-9717284244",
@@ -288,7 +334,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7266807779",
@@ -300,7 +348,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-8194934666",
@@ -312,7 +362,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7266807776",
@@ -324,7 +376,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-5956666985",
@@ -336,7 +390,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-4731901611",
@@ -348,7 +404,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-6940177487",
@@ -360,7 +418,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-2174269888",
@@ -372,7 +432,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-13686704523",
@@ -384,7 +446,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-11078069410",
@@ -396,7 +460,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-6983634060",
@@ -408,7 +474,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-11278053512",
@@ -420,7 +488,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-11345198506",
@@ -432,7 +502,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-3862478240",
@@ -444,7 +516,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-13686704521",
@@ -456,7 +530,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-3542057198",
@@ -468,7 +544,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-3069586683",
@@ -480,7 +558,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": "https://samlingen.koes.dk/vaerker-i-det-offentlige-rum/2717"
+      "website": "https://samlingen.koes.dk/vaerker-i-det-offentlige-rum/2717",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-1833498762",
@@ -492,7 +572,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-13686704522",
@@ -504,7 +586,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-13686704519",
@@ -516,7 +600,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7431818545",
@@ -528,7 +614,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": "https://samlingen.koes.dk/vaerker-i-det-offentlige-rum/2660"
+      "website": "https://samlingen.koes.dk/vaerker-i-det-offentlige-rum/2660",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7282383123",
@@ -540,7 +628,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7697604823",
@@ -552,7 +642,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-1715448254",
@@ -564,7 +656,9 @@
       "description": "statue i H.C. Andersen Haven i Odense",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Statue_Andersen_by_Louis_Hasselriis_Odense_Denmark.jpg",
       "wikidata": "Q60774899",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7887526411",
@@ -576,7 +670,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": "https://thomasdambo.dk"
+      "website": "https://thomasdambo.dk",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-1378760322",
@@ -588,7 +684,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-1715448198",
@@ -600,7 +698,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-13686704525",
@@ -612,7 +712,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-4762092814",
@@ -624,7 +726,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-773725738",
@@ -636,7 +740,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-12860391428",
@@ -648,7 +754,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-13686704520",
@@ -660,7 +768,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-10239989353",
@@ -672,7 +782,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-13686704517",
@@ -684,7 +796,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-513640774",
@@ -696,7 +810,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": "https://www.sdu.dk/"
+      "website": "https://www.sdu.dk/",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-6509961634",
@@ -708,7 +824,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7266807777",
@@ -720,7 +838,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7262062035",
@@ -732,7 +852,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-3520731353",
@@ -744,7 +866,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7898992963",
@@ -756,7 +880,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-13327698755",
@@ -768,7 +894,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": "https://historiskatlas.dk/Kniv_og_frugt_%288289%29"
+      "website": "https://historiskatlas.dk/Kniv_og_frugt_%288289%29",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-10100560095",
@@ -780,7 +908,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-11278316929",
@@ -792,7 +922,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-11345187993",
@@ -804,7 +936,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-11345202213",
@@ -816,7 +950,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-11345218698",
@@ -828,7 +964,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7715037265",
@@ -840,7 +978,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7266807780",
@@ -852,7 +992,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-12473278140",
@@ -864,7 +1006,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": "https://www.dylancawthorne.com/"
+      "website": "https://www.dylancawthorne.com/",
+      "openingHours": "24/7",
+      "wheelchair": null
     },
     {
       "id": "osm-node-7282364651",
@@ -876,7 +1020,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7502017205",
@@ -888,7 +1034,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-406035335",
@@ -900,7 +1048,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": "https://historiskatlas.dk/Nordpilen_(8213)"
+      "website": "https://historiskatlas.dk/Nordpilen_(8213)",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-1018556855",
@@ -912,7 +1062,9 @@
       "description": "skulptur af Svend Wiig Hansen",
       "imageURL": null,
       "wikidata": "Q28730531",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7623811265",
@@ -924,7 +1076,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-12691192384",
@@ -936,7 +1090,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7173587046",
@@ -948,7 +1104,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-1715448224",
@@ -960,7 +1118,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-6940177488",
@@ -972,7 +1132,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7266807778",
@@ -984,7 +1146,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-3844544988",
@@ -996,7 +1160,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-13686704524",
@@ -1008,7 +1174,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-6940177486",
@@ -1020,7 +1188,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-13686704526",
@@ -1032,7 +1202,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-1608830148",
@@ -1044,7 +1216,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": "https://www.bjoernnoergaard.dk/da/skyggen"
+      "website": "https://www.bjoernnoergaard.dk/da/skyggen",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-4731924008",
@@ -1056,7 +1230,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7623811267",
@@ -1068,7 +1244,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-13686704515",
@@ -1080,7 +1258,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-13686704516",
@@ -1092,7 +1272,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7426436714",
@@ -1104,7 +1286,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-13686704514",
@@ -1116,7 +1300,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-6983634059",
@@ -1128,7 +1314,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-1992125908",
@@ -1140,7 +1328,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7581450953",
@@ -1152,7 +1342,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7022669683",
@@ -1164,7 +1356,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7221355783",
@@ -1176,7 +1370,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7623811266",
@@ -1188,7 +1384,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7266807782",
@@ -1200,7 +1398,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-929515358",
@@ -1212,7 +1412,9 @@
       "description": "skulptur ved Næsbyvej i Odense",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Thors_kamp_med_jaetterne_Odense_2015-DSC_4926.png",
       "wikidata": "Q12339295",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-6983669701",
@@ -1224,7 +1426,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7262062036",
@@ -1236,7 +1440,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-4762092813",
@@ -1248,7 +1454,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-9885161174",
@@ -1260,7 +1468,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7887526448",
@@ -1272,7 +1482,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7221360190",
@@ -1284,7 +1496,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7379803676",
@@ -1296,7 +1510,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-13686704513",
@@ -1308,7 +1524,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-13686704527",
@@ -1320,7 +1538,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-11345216540",
@@ -1332,7 +1552,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7216857415",
@@ -1344,7 +1566,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-12677338840",
@@ -1356,7 +1580,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-6509961633",
@@ -1368,7 +1594,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-59739161",
@@ -1380,7 +1608,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-1271033936",
@@ -1392,7 +1622,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7262062038",
@@ -1404,7 +1636,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-6509961635",
@@ -1416,7 +1650,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-9129919110",
@@ -1428,7 +1664,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-344298604",
@@ -1440,7 +1678,9 @@
       "description": "statue i Odense",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Frederik_VII_Odense_Slot.JPG",
       "wikidata": "Q55163198",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-13482538094",
@@ -1452,7 +1692,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": "https://graenseforeningen.dk/om-graenselandet/genforeningssten/odense-marineforening"
+      "website": "https://graenseforeningen.dk/om-graenselandet/genforeningssten/odense-marineforening",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-13482560141",
@@ -1464,7 +1706,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": "https://graenseforeningen.dk/om-graenselandet/genforeningssten/roenhave"
+      "website": "https://graenseforeningen.dk/om-graenselandet/genforeningssten/roenhave",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-12648147985",
@@ -1476,7 +1720,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7399661926",
@@ -1488,7 +1734,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7374684113",
@@ -1500,7 +1748,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-12677338838",
@@ -1512,7 +1762,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-4731901606",
@@ -1524,7 +1776,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-1080891278",
@@ -1536,7 +1790,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-11030515477",
@@ -1548,7 +1804,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-9885161173",
@@ -1560,7 +1818,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-8192186853",
@@ -1572,7 +1832,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7833126630",
@@ -1584,7 +1846,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-7164850197",
@@ -1596,7 +1860,9 @@
       "description": "Odinstårnet var et 177 meter højt tårn på Bolbro Bakke i Odense, opført 1935 af resterende materiale fra konstruktionen af den gamle Lillebæltsbro af ingeniøren Theobald Weber. Tårnet blev sprængt i 1944.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Odinst%C3%A5rnet.jpg",
       "wikidata": "Q1421460",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-12648147987",
@@ -1608,7 +1874,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-12677338839",
@@ -1620,7 +1888,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-344297671",
@@ -1632,7 +1902,9 @@
       "description": "rytterstatue i Kongens Have, Odense",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian_IX_Odense.JPG",
       "wikidata": "Q55164124",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-1306795897",
@@ -1644,7 +1916,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-12648147986",
@@ -1656,7 +1930,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-288087908",
@@ -1668,7 +1944,9 @@
       "description": "bygning i Odense",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Odense-Aaloekkegaard.JPG",
       "wikidata": "Q12341822",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-240857950",
@@ -1680,7 +1958,9 @@
       "description": "hovedgård i det sydøstlige Odense",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Blangstedgaard_-_main_building.jpg",
       "wikidata": "Q12303788",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-5335228269",
@@ -1692,7 +1972,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-3664223164",
@@ -1704,7 +1986,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-3664223165",
@@ -1716,7 +2000,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-146056531",
@@ -1724,11 +2010,13 @@
       "category": "historisk",
       "latitude": 55.36336,
       "longitude": 10.373891,
-      "summary": "",
-      "description": "tidligere kloster og herregård i den sydlige del af Odense",
+      "summary": "Dalum Kloster ligger i Dalum Sogn, Odense Herred, Odense Kommune. Det har sit udgangspunkt i et gammelt benediktinernonnekloster, der fik si",
+      "description": "Dalum Kloster ligger i Dalum Sogn, Odense Herred, Odense Kommune. Det har sit udgangspunkt i et gammelt benediktinernonnekloster, der fik sine ordensregler 22. januar 1193. Det middelalderlige kloster var opført som et formentlig firlænget anlæg, hvoraf Dalum Kirke udgjorde nordfløjen. De øvrige fløje blev nedrevet kort efter 1580, da klostrets sidste nonne døde, og 1602 stod blot \"nogle øde mure\" af bygningerne. Klostrets fløje var forbundne af en korsgang, hvis hvælv er dokumenteret i anlæg til disse i kirkens nordmurs ydre.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Denmark-Odense-Dalum_Kloster.jpg",
       "wikidata": "Q3430378",
-      "website": "https://www.katolsk.dk/1178/"
+      "website": "https://www.katolsk.dk/1178/",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-190246768",
@@ -1740,7 +2028,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-3767388533",
@@ -1752,7 +2042,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-129793810",
@@ -1764,7 +2056,9 @@
       "description": "Hollufgård, er en gammel hovedgård lidt syd for Odensebydelen Neder Holluf og 1 km nordvest for Motorvejskryds Odense. Den nævnes første gang i 1487. Hovedbygningen er opført i 1577 og ombygget i 1829, og parken er på 8 hektar. Det er en herregård i typisk renæssancestil. Størstedelen af herregårdens bygninger har været fredet siden 1918. Flere af ejerne af Hollufgård var tillige ejer af Ørritslevgård.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Hollufgaard.jpg",
       "wikidata": "Q12317104",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-153974860",
@@ -1776,7 +2070,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-380887254",
@@ -1788,7 +2084,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-265100722",
@@ -1800,7 +2098,9 @@
       "description": "herregård syd for Odense",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Lindved_herregaard_Odense.jpg",
       "wikidata": "Q12324561",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-374030598",
@@ -1812,7 +2112,9 @@
       "description": "hovedgård i Skibhuskvarteret i Odense",
       "imageURL": null,
       "wikidata": "Q12326100",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-11198090994",
@@ -1824,7 +2126,9 @@
       "description": "Nonnebakken er en tidligere cirkelborg af trelleborgtypen. Nonnebakken er beliggende syd for Odenses historiske centrum ca. 5 km fra Åsum, tæt ved sammenløbet mellem Odense Å og Lindved Å og ca. 10 km fra disses udløb i Odense Fjord. Ny forskning har vist at det ikke var muligt at sejle ind til Nonnebakken via Odense Å. Nonnebakken blev i 2023 optaget på UNESCOs verdensarvsliste sammen med 4 andre danske trelleborge.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Nonnebakken.jpg",
       "wikidata": "Q1566735",
-      "website": "https://museumodense.dk/viden/nonnebakken-odenses-vikingeborg/"
+      "website": "https://museumodense.dk/viden/nonnebakken-odenses-vikingeborg/",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-229383133",
@@ -1836,7 +2140,9 @@
       "description": "borg/voldsted i Odense Kommune (124284)",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Denmark-Odense-Naesbyhoved_slotsbanke.jpg",
       "wikidata": "Q12329560",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-148202521",
@@ -1844,11 +2150,13 @@
       "category": "historisk",
       "latitude": 55.396276,
       "longitude": 10.39176,
-      "summary": "",
-      "description": "embedsbolig i Odense Kommune (147541)",
+      "summary": "Odense Adelige Jomfrukloster er navnet på en bygning ved Albani Torv i Odense, der tidligere rummede en klosterstiftelse for ugifte adelsfrø",
+      "description": "Odense Adelige Jomfrukloster er navnet på en bygning ved Albani Torv i Odense, der tidligere rummede en klosterstiftelse for ugifte adelsfrøkener.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Odense_Adelige_Jomfrukloster.jpg",
       "wikidata": "Q12329850",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-148202523",
@@ -1860,7 +2168,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-3664223167",
@@ -1872,7 +2182,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-361706181",
@@ -1884,7 +2196,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-12645518470",
@@ -1896,7 +2210,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-105806153",
@@ -1908,7 +2224,9 @@
       "description": "Ansgars Kirke er en kirke i Ansgars Sogn, Odense Stift, beliggende på Søndre Boulevard 1, Odense, tegnet af Niels Jacobsen og opført i 1902.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Ansgars_Kirke_%28Odense_kommune%29.jpg",
       "wikidata": "Q12301928",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": "yes"
     },
     {
       "id": "osm-way-153272930",
@@ -1920,7 +2238,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": "yes"
     },
     {
       "id": "osm-way-153974870",
@@ -1928,11 +2248,13 @@
       "category": "kirke",
       "latitude": 55.393654,
       "longitude": 10.387562,
-      "summary": "",
-      "description": "bygning i Odense Kommune",
+      "summary": "Baptistkirken i Odense også kaldet Kristuskirken er en baptistkirke i Odense med ca. 280 medlemmer, hvoraf ca. 40 % er nydanskere. Kirken er",
+      "description": "Baptistkirken i Odense også kaldet Kristuskirken er en baptistkirke i Odense med ca. 280 medlemmer, hvoraf ca. 40 % er nydanskere. Kirken er indviet i 1933, tilbygningen i 1982, kirkesalen er renoveret i 2020.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Baptistkirken_i_Odense.jpg",
       "wikidata": "Q12302872",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-138266806",
@@ -1940,11 +2262,13 @@
       "category": "kirke",
       "latitude": 55.393082,
       "longitude": 10.351525,
-      "summary": "",
-      "description": "bygning på Fyn",
+      "summary": "Bolbro Kirke er en sognekirke i bydelen Bolbro i Odense. Den er opført i 1959-1961 af arkitektbrødrene Erik og Ebbe Lehn Petersen.",
+      "description": "Bolbro Kirke er en sognekirke i bydelen Bolbro i Odense. Den er opført i 1959-1961 af arkitektbrødrene Erik og Ebbe Lehn Petersen.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Bolbro_Kirke.jpg",
       "wikidata": "Q12304011",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-535366096",
@@ -1956,7 +2280,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": "https://www.bykirken.dk/"
+      "website": "https://www.bykirken.dk/",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-88548214",
@@ -1968,7 +2294,9 @@
       "description": "Dalum Kirke er en kirke i Dalum Sogn i Odense Kommune. Kirken errejst i ådalen nær Odense Ås vestbred. Den var formentlig fra starten tænkt som nordre fløj af et firlænget benediktinernonnekloster, der skulle afløse det ældre anlæg på Nonnebakken. Overflytningen til Dalum var med sikkerhed gennemført 1249, men formentlig allerede i århundredets begyndelse. Således kendes en privilegieskrivelse fra januar 1193, hvori klostret fik sine ordensregler og hellige kar fra benediktinermunkene i Skt. Knuds Kloster, hvorfra også prioren kom. Klostret var viet til Vor Frue.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Odense-Dalum_Kirke.jpg",
       "wikidata": "Q12307073",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-146056535",
@@ -1980,7 +2308,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-33507333",
@@ -1992,7 +2322,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-12645514648",
@@ -2004,7 +2336,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-189509893",
@@ -2016,7 +2350,9 @@
       "description": "kirke på Fyn",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Dyrup_kirke_01.jpg",
       "wikidata": "Q12309127",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-164374211",
@@ -2028,7 +2364,9 @@
       "description": "kirke i Odense",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Fredodense%2801%29.JPG",
       "wikidata": "Q12312483",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-9604769794",
@@ -2040,7 +2378,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-265826920",
@@ -2052,7 +2392,9 @@
       "description": "kirke i Odense",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Odense-Gr%C3%A5br%C3%B8dre_Kloster_towards_Gr%C3%A5br%C3%B8dreplads-2.jpg",
       "wikidata": "Q12314429",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-137229805",
@@ -2064,7 +2406,9 @@
       "description": "Hans Tausens Kirke er en kirke på Rugårdsvej i Odense.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Tausens_Kirke%2C_Odense_2006.jpg",
       "wikidata": "Q12315565",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-265775235",
@@ -2076,7 +2420,9 @@
       "description": "bygning på Fyn",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Hjallese_Kirke.jpg",
       "wikidata": "Q12316851",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-97370926",
@@ -2088,7 +2434,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": "https://www.jw.org"
+      "website": "https://www.jw.org",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-376241930",
@@ -2100,7 +2448,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": "https://www.jw.org"
+      "website": "https://www.jw.org",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-263538602",
@@ -2112,7 +2462,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-263357741",
@@ -2124,7 +2476,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-139940523",
@@ -2132,11 +2486,13 @@
       "category": "kirke",
       "latitude": 55.386967,
       "longitude": 10.404456,
-      "summary": "",
-      "description": "kirke i Odense",
+      "summary": "Munkebjerg Kirke er en kirke fra 1961 i Odensebydelen Munkebjerg nær Munkebjergvej.",
+      "description": "Munkebjerg Kirke er en kirke fra 1961 i Odensebydelen Munkebjerg nær Munkebjergvej.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Munkebjerg_Kirke_2025_a.jpg",
       "wikidata": "Q12327898",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-263360860",
@@ -2148,7 +2504,9 @@
       "description": "bygning i Odense Kommune",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Odense_udv.jpg",
       "wikidata": "Q12329852",
-      "website": "http://www.odense.adventkirke.dk/"
+      "website": "http://www.odense.adventkirke.dk/",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-265822193",
@@ -2160,7 +2518,9 @@
       "description": "bygning i Odense Kommune",
       "imageURL": null,
       "wikidata": "Q70335658",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-234958315",
@@ -2172,7 +2532,9 @@
       "description": "kirke på Fyn",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Sanderum_Kirke.jpg",
       "wikidata": "Q11999415",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-117633625",
@@ -2184,7 +2546,9 @@
       "description": "Sankt Albani Kirke er en katolsk kirke i Odense. 21. oktober 1906 var der grundstensnedlæggelse og 25. oktober 1908 blev kirken indviet af biskop Johannes von Euch. Den er opført i gotisk stil med en portal i romansk stil. Tårnet er 54 meter højt.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Odense_-_Sankt_Albani_Kirke_%28Saint_Alban%27s_Church%29_in_2024.jpg",
       "wikidata": "Q4992243",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-124203862",
@@ -2196,7 +2560,9 @@
       "description": "Sankt Knuds Kirke i Odense er opkaldt efter Knud den Hellige, som blev myrdet i 1086 i Sankt Albani Kirke, der lå tæt på den nuværende kirke.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Knud%27s_cathedral_Odense_Denmark.jpg",
       "wikidata": "Q492584",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-144375816",
@@ -2204,11 +2570,13 @@
       "category": "kirke",
       "latitude": 55.399125,
       "longitude": 10.387557,
-      "summary": "",
-      "description": "kirke i Odense",
+      "summary": "Sankt Hans Kirke er en kirke ud til Nørregade i Odense, lige øst for Odense Slot.",
+      "description": "Sankt Hans Kirke er en kirke ud til Nørregade i Odense, lige øst for Odense Slot.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Sankt_Hans_Kirke_%28Odense_kommune%29.jpg",
       "wikidata": "Q3377187",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": "yes"
     },
     {
       "id": "osm-way-263354389",
@@ -2220,7 +2588,9 @@
       "description": "bygning på Fyn",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Seden_Kirke_front.JPG",
       "wikidata": "Q12334818",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-147681753",
@@ -2228,11 +2598,13 @@
       "category": "kirke",
       "latitude": 55.340859,
       "longitude": 10.360548,
-      "summary": "",
-      "description": "kirke i Stenløse v Odense",
+      "summary": "Stenløse Kirke er en kirke i Stenløse Sogn i Odense Kommune. Kirken, som var viet til Skt. Clemens, er nævnt første gang 1291 da sognepræste",
+      "description": "Stenløse Kirke er en kirke i Stenløse Sogn i Odense Kommune. Kirken, som var viet til Skt. Clemens, er nævnt første gang 1291 da sognepræsten, Erik, der blot var diakon, fik pavelig dispensation til at lade sig indvie som præst. Kirken var formentlig knyttet til Skt. Knuds Kloster, der o. 1280 søgte at tillægge indtægten af Stenløse Kirke til de Knudsbrødre, der studerede i Frankrig. Formelt annekteredes den dog først til klostret 1316, og frem til 1562 blev kirken betjent af en præst, der havde bolig dér. Efter reformationen 1536 overgik kirken til kronens eje. Didrik Schult til Christiansdal erhvervede 1687 kirken sammen med annekskirken i Fangel. Den blev 1695 solgt til Anne Sofie Krabbe til Søbysøgård og var knyttet til denne herregård til 1800-tallet. Fra omkring 1850 var den i skiftende privateje, indtil den overgik til selveje 1. januar 1912.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Stenl%C3%B8se_kirke_%28Odense_kommune%29.JPG",
       "wikidata": "Q12337120",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-229974425",
@@ -2244,7 +2616,9 @@
       "description": "bygning i Odense",
       "imageURL": null,
       "wikidata": "Q34057679",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-255595656",
@@ -2256,7 +2630,9 @@
       "description": "kirke på Fyn",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Tornbjerg_kirke.jpg",
       "wikidata": "Q12339613",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-9001197587",
@@ -2268,7 +2644,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": "https://www.selimiye.dk/"
+      "website": "https://www.selimiye.dk/",
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-189687273",
@@ -2280,7 +2658,9 @@
       "description": "kirke på Fyn",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Vollsmose_Kirke.jpg",
       "wikidata": "Q12344058",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-190492369",
@@ -2292,7 +2672,9 @@
       "description": "bygning i Odense",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Vor_Frelsers_Kirke_%28Odense_Kommune%29.jpg",
       "wikidata": "Q12341257",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-117634382",
@@ -2304,7 +2686,9 @@
       "description": "Vor Frue Kirke er en kirke i Vor Frue Sogn i Odense Kommune.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Vor_Frue_Kirke_%28Odense_kommune%29.jpg",
       "wikidata": "Q10716860",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-1112976913",
@@ -2316,7 +2700,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-94904596",
@@ -2328,7 +2714,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-24375668",
@@ -2340,7 +2728,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-118617008",
@@ -2352,7 +2742,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-364864836",
@@ -2364,7 +2756,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-110677491",
@@ -2376,7 +2770,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-24477967",
@@ -2388,7 +2784,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-28050619",
@@ -2400,7 +2798,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-532072847",
@@ -2412,7 +2812,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-1292890704",
@@ -2424,7 +2826,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-1134393415",
@@ -2436,7 +2840,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-24581049",
@@ -2448,7 +2854,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-788144097",
@@ -2460,7 +2868,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-619756408",
@@ -2472,7 +2882,9 @@
       "description": "kunstgalleri i Odense",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Sculpture_of_Hans_Christian_Andersen_with_Jens_Galschi%C3%B8t_And_Kurt_Hansen.JPG",
       "wikidata": "Q12313445",
-      "website": "https://www.gallerigalschiot.dk/"
+      "website": "https://www.gallerigalschiot.dk/",
+      "openingHours": "Mo-Fr 09:00-17:00; Su 12:00-16:00",
+      "wheelchair": null
     },
     {
       "id": "osm-way-1175855310",
@@ -2484,7 +2896,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-120789559",
@@ -2496,7 +2910,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-639930367",
@@ -2508,7 +2924,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-603304916",
@@ -2520,7 +2938,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-193321223",
@@ -2532,7 +2952,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-1163801445",
@@ -2544,7 +2966,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-816301052",
@@ -2556,7 +2980,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": "24/7",
+      "wheelchair": null
     },
     {
       "id": "osm-way-124203859",
@@ -2568,7 +2994,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": "no"
     },
     {
       "id": "osm-way-23243080",
@@ -2580,7 +3008,9 @@
       "description": "Kongens Have er en park i det centrale Odense, beliggende over for Odense Banegård Center. Parken afgrænses af Jernbanegade mod vest og Østre Stationsvej mod nord. Arealet er ca. to hektar.",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Kongens_Have_Odense_2016-11-27_%2831429496536%29.jpg",
       "wikidata": "Q10547585",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-93855242",
@@ -2592,7 +3022,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-263713756",
@@ -2604,7 +3036,9 @@
       "description": "botanisk have i Odense",
       "imageURL": null,
       "wikidata": "Q12323105",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-88853669",
@@ -2616,7 +3050,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-1293572927",
@@ -2628,7 +3064,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-349774850",
@@ -2640,7 +3078,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-86127610",
@@ -2652,7 +3092,9 @@
       "description": "Munke Mose er en park i det centrale Odense.",
       "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Odense-Munke_Mose-new_bridge.jpg/3840px-Odense-Munke_Mose-new_bridge.jpg",
       "wikidata": "Q12327895",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-1066349909",
@@ -2664,7 +3106,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-46669855",
@@ -2676,7 +3120,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-93479658",
@@ -2688,7 +3134,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-93370267",
@@ -2700,7 +3148,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-1419975609",
@@ -2712,7 +3162,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-827917741",
@@ -2724,7 +3176,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-9877500561",
@@ -2736,7 +3190,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-639922119",
@@ -2748,7 +3204,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-748948135",
@@ -2760,7 +3218,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": "24/7",
+      "wheelchair": null
     },
     {
       "id": "osm-way-681478283",
@@ -2772,7 +3232,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-470068938",
@@ -2784,7 +3246,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-129543239",
@@ -2796,7 +3260,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-469932117",
@@ -2808,7 +3274,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-1050912825",
@@ -2820,7 +3288,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-189365454",
@@ -2832,7 +3302,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-94906100",
@@ -2844,7 +3316,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-193322859",
@@ -2856,7 +3330,9 @@
       "description": "rekreativt område på ca. 7 tønder land sydøst for Vollsmose",
       "imageURL": null,
       "wikidata": "Q12304873",
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-530081047",
@@ -2868,7 +3344,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-1480147156",
@@ -2880,7 +3358,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-607956943",
@@ -2892,7 +3372,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-1363519794",
@@ -2904,7 +3386,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-193321229",
@@ -2916,7 +3400,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-1366181831",
@@ -2928,7 +3414,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-node-1999686161",
@@ -2940,7 +3428,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     },
     {
       "id": "osm-way-1099114634",
@@ -2952,7 +3442,9 @@
       "description": "",
       "imageURL": null,
       "wikidata": null,
-      "website": null
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
     }
   ],
   "events": []
