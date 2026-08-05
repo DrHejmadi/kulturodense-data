@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T07:07:26.289019+00:00",
+  "generatedAt": "2026-08-05T07:15:26.152843+00:00",
   "source": "OpenStreetMap (ODbL) + Wikidata",
   "attractions": [
     {
@@ -55,7 +55,7 @@
       "imageURL": null,
       "wikidata": null,
       "website": null,
-      "openingHours": null,
+      "openingHours": "Mo-Su 10:00-16:00",
       "wheelchair": null
     },
     {
@@ -210,6 +210,20 @@
       "wikidata": null,
       "website": "https://museumodense.dk/tid-museum-for-odense/",
       "openingHours": null,
+      "wheelchair": null
+    },
+    {
+      "id": "osm-way-456446066",
+      "title": "TID Museum",
+      "category": "museum",
+      "latitude": 55.398633,
+      "longitude": 10.393835,
+      "summary": "",
+      "description": "",
+      "imageURL": null,
+      "wikidata": null,
+      "website": null,
+      "openingHours": "Tu-Su 10:00-16:00",
       "wheelchair": null
     },
     {
