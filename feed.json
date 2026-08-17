@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T04:57:14.567172+00:00",
+  "generatedAt": "2026-08-17T05:08:59.915936+00:00",
   "source": "OpenStreetMap (ODbL) + Wikidata",
   "attractions": [
     {
@@ -1563,6 +1563,20 @@
       "latitude": 55.427492,
       "longitude": 10.373452,
       "summary": "Æbleparken",
+      "description": "",
+      "imageURL": null,
+      "wikidata": null,
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
+    },
+    {
+      "id": "osm-node-14099654263",
+      "title": "5. MAJ 1945\n\nFRIHED ER DET BEDSTE\nGULD\nSOM SOL BESTRAALER OVER\nMULD",
+      "category": "monument",
+      "latitude": 55.365918,
+      "longitude": 10.393193,
+      "summary": "5. MAJ 1945\n\nFRIHED ER DET BEDSTE\nGULD\nSOM SOL BESTRAALER OVER\nMULD",
       "description": "",
       "imageURL": null,
       "wikidata": null,
