@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T09:32:44.270080+00:00",
+  "generatedAt": "2026-09-02T08:57:35.963808+00:00",
   "source": "OpenStreetMap (ODbL) + Wikidata",
   "attractions": [
     {
@@ -3118,7 +3118,7 @@
       "longitude": 10.383311,
       "summary": "Munke Mose er en park i det centrale Odense.",
       "description": "Munke Mose er en park i det centrale Odense.",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Odense-Munke_Mose-new_bridge.jpg/3840px-Odense-Munke_Mose-new_bridge.jpg?utm_source=da.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Odense-Munke_Mose-new_bridge.jpg/3840px-Odense-Munke_Mose-new_bridge.jpg?utm_source=da.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikidata": "Q12327895",
       "website": null,
       "openingHours": null,
