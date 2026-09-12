@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T09:01:58.397454+00:00",
+  "generatedAt": "2026-09-12T08:45:40.926788+00:00",
   "source": "OpenStreetMap (ODbL) + Wikidata",
   "attractions": [
     {
@@ -3013,6 +3013,20 @@
       "wheelchair": null
     },
     {
+      "id": "osm-way-469932117",
+      "title": "Holluf Pile Parken",
+      "category": "natur",
+      "latitude": 55.362744,
+      "longitude": 10.454679,
+      "summary": "",
+      "description": "",
+      "imageURL": null,
+      "wikidata": null,
+      "website": null,
+      "openingHours": null,
+      "wheelchair": null
+    },
+    {
       "id": "osm-way-124203859",
       "title": "Klosterhaven",
       "category": "natur",
@@ -3284,20 +3298,6 @@
       "category": "natur",
       "latitude": 55.404939,
       "longitude": 10.347912,
-      "summary": "",
-      "description": "",
-      "imageURL": null,
-      "wikidata": null,
-      "website": null,
-      "openingHours": null,
-      "wheelchair": null
-    },
-    {
-      "id": "osm-way-469932117",
-      "title": "hp parken",
-      "category": "natur",
-      "latitude": 55.362479,
-      "longitude": 10.454754,
       "summary": "",
       "description": "",
       "imageURL": null,
