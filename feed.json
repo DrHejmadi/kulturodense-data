@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T09:18:33.272100+00:00",
+  "generatedAt": "2026-10-17T08:44:41.743178+00:00",
   "source": "OpenStreetMap (ODbL) + Wikidata",
   "attractions": [
     {
@@ -3086,8 +3086,8 @@
       "id": "osm-way-88853669",
       "title": "Løveparken",
       "category": "natur",
-      "latitude": 55.407508,
-      "longitude": 10.390675,
+      "latitude": 55.407573,
+      "longitude": 10.390707,
       "summary": "",
       "description": "",
       "imageURL": null,
