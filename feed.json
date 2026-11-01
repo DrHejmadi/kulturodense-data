@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T11:02:18.567620+00:00",
+  "generatedAt": "2026-11-01T11:26:53.852192+00:00",
   "source": "OpenStreetMap (ODbL) + Wikidata",
   "attractions": [
     {
@@ -2428,8 +2428,8 @@
       "id": "osm-way-137229805",
       "title": "Hans Tausens Kirke",
       "category": "kirke",
-      "latitude": 55.398523,
-      "longitude": 10.363384,
+      "latitude": 55.398529,
+      "longitude": 10.363375,
       "summary": "",
       "description": "kirke i Odense",
       "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Tausens_Kirke%2C_Odense_2006.jpg",
